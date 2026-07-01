@@ -1,7 +1,7 @@
 // All photo/video paths point to /public/photos and /public/videos.
 // Drop your real files there with these exact names (or edit the paths below).
 
-export const PASSWORD = '25112024';
+export const PASSWORD = '25122024';
 
 export const COUPLE_PHOTO = '/photos/us-01.jpg';
 
@@ -44,7 +44,7 @@ export const memories: Memory[] = [
     date: 'past midnight',
     title: 'Late Night Calls',
     description:
-      "Talking to you till 3am never felt tiring — it felt like home.",
+      "Talking to you till 3am never felt tiring it felt like home.",
     photo: '/pics/1000126839.jpg.jpeg',
   },
   {
@@ -60,7 +60,7 @@ export const memories: Memory[] = [
     date: 'always',
     title: 'Just Us',
     description:
-      "No caption needed — just you, just me, just this.",
+      "No caption needed just you, just me, just this.",
     photo: '/pics/IMG_9860.JPG',
   },
 ];
@@ -76,7 +76,7 @@ export const thingsILove: LoveThing[] = [
   {
     id: 'passion',
     title: 'How Passionately You Lives',
-    note: 'The way you throw yourself fully into whatever you love — no half measures, ever.',
+    note: 'The way you throw yourself fully into whatever you love no half measures, ever.',
   },
   {
     id: 'hotwheels',
@@ -91,12 +91,12 @@ export const thingsILove: LoveThing[] = [
   {
     id: 'oats',
     title: 'Your Love For Oats',
-    note: 'A bowl of oats and you\'re genuinely happy — there\'s something so pure about that. ps: i can\'t eat that.',
+    note: 'A bowl of oats and you\'re genuinely happy there\'s something so pure about that. ps: i can\'t eat that.',
   },
   {
     id: 'jumps',
     title: 'How You Jumps When You are Excited',
-    note: 'That little jump when something thrills you — I could watch it on repeat forever.',
+    note: 'That little jump when something thrills you I could watch it on repeat forever.',
   },
   {
     id: 'small-things',
@@ -116,7 +116,7 @@ export const thingsILove: LoveThing[] = [
   {
     id: 'patience',
     title: 'Your Patience With My Blunders',
-    note: 'You\'ve never made me feel small for my mistakes — just patient, every single time.',
+    note: 'You\'ve never made me feel small for my mistakes just patient, every single time.',
   },
 ];
 
@@ -129,12 +129,12 @@ export interface LoveNote {
 export const loveNotes = [
   { id: 1, message: "I'll choose you, every single day. No matter what life throws at us, my heart will always find its way back to you. Rapid se aajaungi jldii.." },
   { id: 2, message: "I'm not going anywhere. You're officially stuck with me. Lifetime subscription. No cancellation policy." },
-  { id: 3, message: "I'll always listen to you. Your stories, your dreams, your rants, your excitement — I want to hear it all because every part of you matters to me." },
+  { id: 3, message: "I'll always listen to you. Your stories, your dreams, your rants, your excitement. I want to hear it all because every part of you matters to me." },
   { id: 4, message: "I'll always be there for you. Whether you're celebrating your biggest win or having your worst day, you'll never have to face it alone." },
   { id: 5, message: "Your personal skincare manager. Yes, I'll take care of your skincare routine because my handsome boy deserves to glow." },
   { id: 6, message: "I'll keep making you laugh, by saying adangii bhadangii cheeezi , your smile will always be worth it." },
   { id: 7, message: "I'll never stop flirting with you. Prepare yourself for random compliments, surprise kisses, and endless \"you're so cute\" moments." },
-  { id: 8, message: "I'll keep falling in love with you. Not just once, but over and over again — in every little version of you." },
+  { id: 8, message: "I'll keep falling in love with you. Not just once, but over and over again in every little version of you." },
   { id: 9, message: "I'll make ordinary days feel special. A random date, a walk together, or simply sitting beside you with a pizza puff... with you, everything becomes my favorite memory." },
   { id: 10, message: "I'll be your biggest supporter. When you doubt yourself, I'll remind you how capable, talented, and amazing you really are." },
   { id: 11, message: "I'll share my food... sometimes. Only because I love you. But if you steal my last bite without asking... we're negotiating." },

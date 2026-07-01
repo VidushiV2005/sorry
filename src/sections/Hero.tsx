@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Heart } from 'lucide-react';
 
 const line =
-  "I love you more than words manage to say. I'm grateful for every ordinary day with you, and I'm truly sorry for all the mess i have created. I never wanted to hurt you — not once. You mean everything to me.";
+  "I love you more than words manage to say. I'm grateful for every ordinary day with you, and I'm truly sorry for all the mess i have created. I never wanted to hurt you not once. You mean everything to me.";
 
 const words = line.split(' ');
 

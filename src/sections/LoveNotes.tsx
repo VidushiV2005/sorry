@@ -160,7 +160,7 @@ export default function LoveNotes() {
             className="font-light text-white/60 leading-relaxed max-w-md text-lg"
           >
             A jar full of things I never say enough. Tap it, and let one
-            unfold — read it like I'm saying it to you right now.
+            unfold read it like I'm saying it to you right now.
           </motion.p>
         </motion.div>
       </div>

@@ -32,7 +32,7 @@ export default function Promises() {
             I'll cherish what we have, appreciate you a little more every day,
             and never stop making you feel loved, valued, and important.
           </span>{' '}
-          I know promises mean nothing without actions — so I'll let my actions
+          I know promises mean nothing without actions so I'll let my actions
           prove these words.
         </p>
 

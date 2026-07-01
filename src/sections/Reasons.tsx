@@ -168,7 +168,7 @@ export default function SorryLetter() {
                     what I did and tell you how deeply sorry I am.
                   </p>
                   <p>
-                    You deserve honesty, love, reassurance, and someone who makes you feel safe —
+                    You deserve honesty, love, reassurance, and someone who makes you feel safe
                     not someone who makes you doubt yourself. I'm sorry that I became the reason
                     for your pain.
                   </p>
@@ -176,7 +176,7 @@ export default function SorryLetter() {
                     I don't expect this apology to erase what happened, and I know trust isn't
                     rebuilt overnight. I just want you to know that I'm genuinely sorry, and
                     I'll always regret making you cry, making you overthink, and making you feel
-                    like you weren't enough — when the truth is that you've always been more
+                    like you weren't enough when the truth is that you've always been more
                     than enough for me.
                   </p>
                   <p className="text-center italic pt-1" style={{ color: '#8b3a4a', fontSize: 16 }}>
